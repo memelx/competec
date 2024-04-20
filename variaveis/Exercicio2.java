@@ -7,7 +7,9 @@
 public class Exercicio2 {
     public static void main(String[] args) {
         // Escreva seu código aqui ⬇️
-
+float valorDeUmaLaranja = 5,00;
+        double valorDeUmaUva = 3,99;
+        
         
     }
 }
